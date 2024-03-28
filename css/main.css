@@ -27,6 +27,7 @@ h1, h2, h3, p {
 
 .lead {
     font-size: 20px;
+    color:#f7f9f8;
 }
 
 .btn {
@@ -283,6 +284,9 @@ section#contact-form form button {
     z-index: -1;
  }
 
+.form-group{
+    color:#f7f9f8;
+}
 
 /* Footer */
 footer {
